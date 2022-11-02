@@ -1,0 +1,25 @@
+<style>
+    body{
+        background-color:;
+    }
+    h1{
+        color: aquamarine;
+        
+    }
+    h2{
+        color: rgb(231, 155, 41);
+    }
+    hr{
+        border-style: none;
+        border-top-style:dotted;
+        border-color: grey;
+        border-width: 5px;
+        width: 5%;
+    }
+    img{
+        height: 100px;
+    }
+    h1{
+
+    }
+  </style>
